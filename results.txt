@@ -1,0 +1,15 @@
+GORUNTU ISLEME CUDA ODEVI
+GPU: Tesla T4
+Goruntu: 1024x1024
+Yeniden boyutlandirma CUDA: 0.228279 ms
+6-bit nicemleme CUDA: 0.068427 ms
+Parlaklik CPU 1 thread: 15.1496 ms
+Parlaklik CPU 4 thread: 11.9309 ms
+Parlaklik CUDA: 0.125288 ms
+Histogram CPU 1 thread: 17.4554 ms
+Histogram CPU 4 thread: 8.58408 ms
+Histogram CUDA: 0.372061 ms
+Parlaklik sonuclari ayni mi: EVET
+Histogram sonuclari ayni mi: EVET
+Farkli piksel sayisi: 1048576
+Mutlak piksel farki toplami: 20971520
